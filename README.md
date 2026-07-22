@@ -15,6 +15,7 @@ Y reflexion sobre lo importante que es la calidad de software para nuestro proye
 
 - Juan Camilo Bernal
 - Kevin Andres Bastidas
+  
 Ficha: 3115679
 
 ## Objetivo
