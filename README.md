@@ -1,11 +1,7 @@
-# 🎬 Reflexión Grupal al Documental
-
-Repositorio de trabajo colaborativo para la entrega de la actividad grupal de reflexión sobre el documental analizado, y video de debate.
 
 ## Descripción
 
-Este repositorio contiene el desarrollo y entrega de la actividad grupal, donde se realiza un análisis crítico y una reflexión conjunta sobre el documental, y realizacion de debate abordando sus principales temas, fallos y aprendizajes.
-Y reflexion sobre lo importante que es la calidad de software para nuestro proyecto Rocket Service.
+Este repositorio contiene el desarrollo y entrega de la actividades grupales 
 
 ## Contenido
 
